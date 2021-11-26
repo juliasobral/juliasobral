@@ -1,9 +1,9 @@
-## Olá, eu sou a Júlia Sobral.  
+## Olá, eu sou a Júlia Sobral. 
+
 - 💻 Eu sou Desenvolvedora FullStack 
-- 📚 Estudando Java, PHP e Python
+- 📚 Estudando Java e JavaScript
 - 👩‍💻 Estou em busca de emprego
 - 📫 Contato: juliasobralm1@gmail.com
-- 🙎‍♀️ Pronomes: ela/dela
 
 
 
