@@ -1,7 +1,7 @@
 ## Olá, eu sou a Júlia Sobral. 
 
 - 💻 Desenvolvedora FullStack Java Jr
-- 📚 Estudando Java e JavaScript
+- 📚 Estudando Angular
 - 👩‍💻 Estou em busca de emprego
 - 📫 Contato: juliasobralm1@gmail.com
 
