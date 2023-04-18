@@ -2,6 +2,7 @@
 
 - 💻 Desenvolvedora FullStack Java Jr
 - 📫 Contato: juliasobralm1@gmail.com
+- 👩🏻‍💻 Portfólio: https://juliasobral.netlify.app/#/home
 
 <div align="center">
   <a href="https://github.com/juliasobral">
