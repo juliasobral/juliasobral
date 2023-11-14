@@ -10,8 +10,7 @@ Tenho uma boa comunicação, facilidade em trabalhar em equipe e me considero um
 
 Apaixonada pela possibilidade de realizar soluções com a Programação, identificando e atendendo as necessidades por meio da Tecnologia.
 
-Atualmente, atuo como Analista de Sistemas na Neomind, na área de Suporte e Manutenção.
-
+Atualmente, atuo como Consultora de Soluções II na Capgemini. 
 
 <div align="center">
   <a href="https://github.com/juliasobral">
