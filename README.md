@@ -10,8 +10,6 @@ Tenho uma boa comunicação, facilidade em trabalhar em equipe e me considero um
 
 Apaixonada pela possibilidade de realizar soluções com a Programação, identificando e atendendo as necessidades por meio da Tecnologia.
 
-Atualmente, atuo como Consultora de Soluções II na Capgemini. 
-
 <div align="center">
   <a href="https://github.com/juliasobral">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliasobral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
