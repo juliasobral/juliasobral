@@ -2,7 +2,6 @@
 
 - 💻 Desenvolvedora FullStack Java Jr
 - 📫 Contato: juliasobralm1@gmail.com
-- 👩🏻‍💻 Portfólio: https://juliasobral.netlify.app/
 
 Sou estudante de Sistemas de Informação (2022/2026), formada em Desenvolvimento Full Stack pelo Senac e também pela Generation Brasil, com intuito de promover o desenvolvimento de aplicações web, na área de Front e Back End. 
 
